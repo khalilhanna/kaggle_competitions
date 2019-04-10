@@ -1,1 +1,1 @@
-# CEBD_1260
+# competitions
